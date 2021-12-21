@@ -1,2 +1,2 @@
-# BITAMIN_review_project
+# Forecasting Australia Rainfall
 BITAMIN 1st semester review project
